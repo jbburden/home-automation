@@ -14,4 +14,5 @@ while True:
     lcd.write_string("Temp: %d C" % temperature)
     lcd.cursor_pos = (1, 0)
     lcd.write_string("Humidity: %d %%" % humidity)
-    
+
+#new change
