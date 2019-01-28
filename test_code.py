@@ -19,3 +19,4 @@ while True:
     lcd.write_string("Humidity: %d %%" % humidity)
 
 #new change
+#change
